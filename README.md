@@ -1,16 +1,33 @@
-## Hi there 👋
-
-<!--
-**blowdryers/blowdryers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="seal_1.jpg" width="200">
+  <img src="seal_2.jpg" width="200">
+  <img src="seal_3.jpg" width="200">
+  <img src="seal_4.jpg" width="200">
+  <img src="seal_5.jpg" width="200">
+  <img src="seal_6.jpg" width="200">
+  <img src="seal_7.jpg" width="200">
+  <img src="seal_8.jpg" width="200">
+  <img src="seal_9.jpg" width="200">
+  <img src="seal_10.jpg" width="200">
+  <img src="seal_11.jpg" width="200">
+  <img src="seal_12.jpg" width="200">
+  <img src="seal_13.jpg" width="200">
+  <img src="seal_14.jpg" width="200">
+  <img src="seal_15.jpg" width="200">
+  <img src="seal_17.jpg" width="200">
+  <img src="seal_18.jpg" width="200">
+  <img src="seal_19.jpg" width="200">
+  <img src="seal_21.jpg" width="200">
+  <img src="seal_22.jpg" width="200">
+  <img src="seal_23.jpg" width="200">
+  <img src="seal_24.jpg" width="200">
+  <img src="seal_25.jpg" width="200">
+  <img src="seal_26.jpg" width="200">
+  <img src="seal_28.jpg" width="200">
+  <img src="seal_29.jpg" width="200">
+  <img src="seal_32.jpg" width="200">
+  <img src="seal_33.jpg" width="200">
+  <img src="seal_34.jpg" width="200">
+  <img src="seal_35.jpg" width="200">
+  <img src="seal_36.jpg" width="200">
+</p>
