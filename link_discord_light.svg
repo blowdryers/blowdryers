@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="254.500px" height="60px"
+     viewBox="0 0 254.500 60" font-family="ConsolasFallback,Consolas,Menlo,monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text {white-space: pre;}
+.px {shape-rendering: crispEdges;}
+</style>
+<g class="px">
+<path d="M10 0h238v3h3v54h-3v3h-238v-3h-3v-54h3z" fill="#d8d8da"/>
+<path d="M13 3h232v3h3v48h-3v3h-232v-3h-3v-48h3z" fill="#ffffff"/>
+<rect x="13" y="54" width="232" height="3" fill="#5b34c4"/>
+<g fill="#5b34c4" transform="translate(85.23,28.5)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" keyTimes="0;0.6;0.66;0.72;0.78" dur="2.6s" calcMode="discrete" repeatCount="indefinite"/><path d="M-9 -12h6v3h-6zM3 -12h6v3h-6zM-12 -9h24v3h-24zM-15 -6h30v3h-30zM-15 -3h6v3h-6zM-3 -3h6v3h-6zM9 -3h6v3h-6zM-15 0h6v3h-6zM-3 0h6v3h-6zM9 0h6v3h-6zM-15 3h30v3h-30zM-15 6h9v3h-9zM-3 6h6v3h-6zM6 6h9v3h-9zM-12 9h6v3h-6zM6 9h6v3h-6z"/></g></g>
+</g>
+<text x="112.23" y="34.80" font-size="18px" fill="#24292f">DISCORD</text>
+</svg>

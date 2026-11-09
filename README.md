@@ -1,40 +1,13 @@
-## i like anything seal related
+<a href="https://csharp.straw.page/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="snake@deltarune.wtf - Software Engineer" src="light_mode.svg">
+  </picture>
+</a>
 
-<details>
-  <br>
+<p align="left"><a href="https://csharp.straw.page/"><picture><source media="(prefers-color-scheme: dark)" srcset="link_website_dark.svg"><img alt="Website" width="25%" src="link_website_light.svg"></picture></a><a href="https://www.tiktok.com/@armdot"><picture><source media="(prefers-color-scheme: dark)" srcset="link_tiktok_dark.svg"><img alt="TikTok" width="25%" src="link_tiktok_light.svg"></picture></a><a title="Discord: @onynring"><picture><source media="(prefers-color-scheme: dark)" srcset="link_discord_dark.svg"><img alt="Discord: @onynring" width="25%" src="link_discord_light.svg"></picture></a><a href="mailto:snake@shibagt.com"><picture><source media="(prefers-color-scheme: dark)" srcset="link_email_dark.svg"><img alt="Email" width="25%" src="link_email_light.svg"></picture></a></p>
 
-  <p align="center">
-    <img src="seal_1.jpg" width="200">
-    <img src="seal_2.jpg" width="200">
-    <img src="seal_3.jpg" width="200">
-    <img src="seal_4.jpg" width="200">
-    <img src="seal_5.jpg" width="200">
-    <img src="seal_6.jpg" width="200">
-    <img src="seal_7.jpg" width="200">
-    <img src="seal_8.jpg" width="200">
-    <img src="seal_9.jpg" width="200">
-    <img src="seal_10.jpg" width="200">
-    <img src="seal_11.jpg" width="200">
-    <img src="seal_12.jpg" width="200">
-    <img src="seal_13.jpg" width="200">
-    <img src="seal_14.jpg" width="200">
-    <img src="seal_15.jpg" width="200">
-    <img src="seal_17.jpg" width="200">
-    <img src="seal_18.jpg" width="200">
-    <img src="seal_19.jpg" width="200">
-    <img src="seal_21.jpg" width="200">
-    <img src="seal_22.jpg" width="200">
-    <img src="seal_23.jpg" width="200">
-    <img src="seal_24.jpg" width="200">
-    <img src="seal_25.jpg" width="200">
-    <img src="seal_26.jpg" width="200">
-    <img src="seal_28.jpg" width="200">
-    <img src="seal_29.jpg" width="200">
-    <img src="seal_32.jpg" width="200">
-    <img src="seal_33.jpg" width="200">
-    <img src="seal_34.jpg" width="200">
-    <img src="seal_35.jpg" width="200">
-    <img src="seal_36.jpg" width="200">
-  </p>
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pacman_dark.svg">
+  <img alt="Pac-Man eating my contribution graph" src="pacman_light.svg">
+</picture>
