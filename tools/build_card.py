@@ -80,7 +80,7 @@ THEMES = {
     },
 }
 
-TITLE = "snake@deltarune.wtf"
+TITLE = "snake@sealura.dev"
 
 INFO = [
     ("OS", "Windows 10, GrapheneOS, CachyOS"),
@@ -93,12 +93,12 @@ INFO = [
     ("Languages.Computer", "Frontend"),
     ("Languages.Real", "English, German"),
     None,
-    ("Focus", "Reverse Engineering, Modding, AI"),
+    ("Focus", "Reverse Engineering, AI"),
     ("Hobbies", "Drawing, Developing"),
 ]
 
 CONTACT = [
-    ("Email", "snake@shibagt.com"),
+    ("Email", "snake@sealura.dev"),
     ("TikTok", "@armdot"),
     ("Discord", "@onynring"),
     ("Website", "csharp.straw.page"),
